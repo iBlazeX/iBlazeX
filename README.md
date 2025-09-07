@@ -1,6 +1,6 @@
 - Hi, I’m @iBlazeX
 - I’m interested in Programming and New Technologies
-- I’m currently learning Git and DSA with Java
+- I’m currently learning DSA and Node Js
 - I’m looking to collaborate with Programming Pioneers
 
 
