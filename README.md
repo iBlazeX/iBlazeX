@@ -1,8 +1,5 @@
-</div>
-
 ```console
 iblaze@github:~$ boot
-
 Initializing profile............... OK
 Loading development environment... OK
 Loading installed packages......... OK
@@ -22,7 +19,6 @@ iblaze@github:~$ tree
 iblaze@github:~$ cd languages
 iblaze@github:~/languages$ ls
 ```
-
 <p align="left">&nbsp;
   <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=CE422B"/>&nbsp;
   <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go"/>&nbsp;
@@ -36,7 +32,6 @@ iblaze@github:~/languages$ ls
 iblaze@github:~/languages$ cd ../technologies
 iblaze@github:~/technologies$ ls
 ```
-
 <p align="left">&nbsp;
   <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql"/>&nbsp;
@@ -50,7 +45,6 @@ iblaze@github:~/technologies$ ls
 iblaze@github:~/technologies$ cd ../workspace
 iblaze@github:~/workspace$ ls
 ```
-
 <p align="left">&nbsp;
   <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624"/>&nbsp;
   <img src="https://img.shields.io/badge/WSL-0D1117?style=flat-square&logo=linux&logoColor=0078D4"/>&nbsp;
