@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: iblaze
+          github_user_name: iBlazeX
           outputs: |
             dist/pacman-contribution-graph.svg?palette=github
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
