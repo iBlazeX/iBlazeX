@@ -72,15 +72,5 @@ Session terminated.
 ```
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/iBlazeX/iBlazeX/output/pacman-contribution-graph-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/iBlazeX/iBlazeX/output/pacman-contribution-graph.svg">
-    <img
-      alt="Pac-Man Contribution Graph"
-      src="https://raw.githubusercontent.com/iBlazeX/iBlazeX/output/pacman-contribution-graph-dark.svg">
-  </picture>
+  <img src="./game.gif?raw=true" alt="GitHub Space Shooter" width="100%">
 </p>
