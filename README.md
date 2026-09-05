@@ -20,12 +20,12 @@ iblaze@github:~$ cd languages
 iblaze@github:~/languages$ ls
 ```
 <p align="left">&nbsp;
-  <img src="https://img.shields.io/badge/Rust-161B22?style=flat-square&logo=rust&logoColor=CE422B"/>&nbsp;
-  <img src="https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go"/>&nbsp;
-  <img src="https://img.shields.io/badge/C-161B22?style=flat-square&logo=c&logoSize=auto"/>&nbsp;
-  <img src="https://img.shields.io/badge/C++-161B22?style=flat-square&logo=cplusplus"/>&nbsp;
-  <img src="https://img.shields.io/badge/Java-161B22?style=flat-square&logo=openjdk&logoColor=CE422B"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python"/>&nbsp;
+  <img src="https://img.shields.io/badge/Rust-151b23?style=flat-square&logo=rust&logoColor=CE422B"/>&nbsp;
+  <img src="https://img.shields.io/badge/Go-151b23?style=flat-square&logo=go"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-151b23?style=flat-square&logo=c&logoSize=auto"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-151b23?style=flat-square&logo=cplusplus"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-151b23?style=flat-square&logo=openjdk&logoColor=CE422B"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-151b23?style=flat-square&logo=python"/>&nbsp;
 </p>
 
 ```console
@@ -33,12 +33,12 @@ iblaze@github:~/languages$ cd ../technologies
 iblaze@github:~/technologies$ ls
 ```
 <p align="left">&nbsp;
-  <img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql"/>&nbsp;
-  <img src="https://img.shields.io/badge/Oracle_Database-161B22?style=flat-square&logo=oracle"/>&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/React-151b23?style=flat-square&logo=react"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-151b23?style=flat-square&logo=postgresql"/>&nbsp;
+  <img src="https://img.shields.io/badge/Oracle_Database-151b23?style=flat-square&logo=oracle"/>&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-151b23?style=flat-square&logo=firebase&logoColor=FFCA28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-151b23?style=flat-square&logo=docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-151b23?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 </p>
 
 ```console
@@ -46,16 +46,16 @@ iblaze@github:~/technologies$ cd ../workspace
 iblaze@github:~/workspace$ ls
 ```
 <p align="left">&nbsp;
-  <img src="https://img.shields.io/badge/Linux-161B22?style=flat-square&logo=linux&logoColor=FCC624"/>&nbsp;
-  <img src="https://img.shields.io/badge/WSL-161B22?style=flat-square&logo=linux&logoColor=0078D4"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bash-161B22?style=flat-square&logo=gnubash"/>&nbsp;
-  <img src="https://img.shields.io/badge/Zsh-161B22?style=flat-square&logo=zsh&logoColor=F15A24"/>&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>&nbsp;
-  <img src="https://img.shields.io/badge/Zed-161B22?style=flat-square&logo=zedindustries&logoColor=A855F7"/>&nbsp;
-  <img src="https://img.shields.io/badge/RustRover-161B22?style=flat-square&logo=jetbrains&logoColor=FD345F"/>&nbsp;
-  <img src="https://img.shields.io/badge/CLion-161B22?style=flat-square&logo=clion&logoColor=FFFFFF"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-151b23?style=flat-square&logo=linux&logoColor=FCC624"/>&nbsp;
+  <img src="https://img.shields.io/badge/WSL-151b23?style=flat-square&logo=linux&logoColor=0078D4"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-151b23?style=flat-square&logo=git"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-151b23?style=flat-square&logo=github"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bash-151b23?style=flat-square&logo=gnubash"/>&nbsp;
+  <img src="https://img.shields.io/badge/Zsh-151b23?style=flat-square&logo=zsh&logoColor=F15A24"/>&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-151b23?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>&nbsp;
+  <img src="https://img.shields.io/badge/Zed-151b23?style=flat-square&logo=zedindustries&logoColor=A855F7"/>&nbsp;
+  <img src="https://img.shields.io/badge/RustRover-151b23?style=flat-square&logo=jetbrains&logoColor=FD345F"/>&nbsp;
+  <img src="https://img.shields.io/badge/CLion-151b23?style=flat-square&logo=clion&logoColor=FFFFFF"/>&nbsp;
 </p>
 
 ```console
