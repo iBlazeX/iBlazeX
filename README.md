@@ -1,133 +1,72 @@
-<div align="center">
-
-# Lynx
-
-### Backend Engineering • Systems Programming • Robotics
-
-Building software with **Go**, **Rust** and **Linux**.
-
-<br>
-
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
-
 </div>
 
----
+```console
+iblaze@github:~$ boot
 
-# About
+Initializing profile............... OK
+Loading development environment... OK
+Loading installed packages......... OK
 
-I'm a Computer Science student passionate about backend engineering,
-systems programming and robotics.
-
-I enjoy building software close to the metal, whether that's writing
-backend services, exploring operating systems, or programming robots
-with ROS.
-
-Currently focused on **Rust**, **distributed systems**, and **cloud-native development**.
-
----
-
-# Toolkit
-
-### Languages
-
-![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=go)
-![Rust](https://img.shields.io/badge/Rust-181717?style=for-the-badge&logo=rust)
-![C](https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-181717?style=for-the-badge&logo=typescript)
-
-### Backend
-
-![Go](https://img.shields.io/badge/Go-181717?style=for-the-badge&logo=go)
-![REST_API](https://img.shields.io/badge/REST_API-181717?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-181717?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-181717?style=for-the-badge&logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=for-the-badge&logo=kubernetes)
-
-### Systems
-
-![Linux](https://img.shields.io/badge/Linux-181717?style=for-the-badge&logo=linux)
-![ROS2](https://img.shields.io/badge/ROS2-181717?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-181717?style=for-the-badge&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
-
-### Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-181717?style=for-the-badge&logo=visualstudiocode)
-![Zed](https://img.shields.io/badge/Zed-181717?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma)
-
----
-
-# Selected Work
-
-## 🦀 Rust Shell
-
-A POSIX-inspired Unix shell written in Rust.
-
-**Tech**
-
-`Rust`
-
----
-
-## 🌐 Portfolio
-
-Personal portfolio built from scratch.
-
----
-
-# Currently Exploring
-
-```text
-Rust
-
-Distributed Systems
-
-Networking
-
-Compiler Design
-
-Linux Internals
+System ready.
 ```
-
----
-
-# Terminal
 
 ```console
-$ whoami
-Lynx
-
-$ interests
-backend engineering
-systems programming
-robotics
-
-$ current
-building a POSIX shell in Rust
-
-$ next
-distributed systems
+iblaze@github:~$ tree
+.
+├── languages
+├── technologies
+└── workspace
 ```
 
----
+```console
+iblaze@github:~$ cd languages
+iblaze@github:~/languages$ ls
+```
 
-# Connect
+<p align="left">&nbsp;
+  <img src="https://img.shields.io/badge/Rust-0D1117?style=flat-square&logo=rust&logoColor=CE422B"/>&nbsp;
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go"/>&nbsp;
+  <img src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoSize=auto"/>&nbsp;
+  <img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=CE422B"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python"/>&nbsp;
+</p>
 
-Portfolio
+```console
+iblaze@github:~/languages$ cd ../technologies
+iblaze@github:~/technologies$ ls
+```
 
-LinkedIn
+<p align="left">&nbsp;
+  <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql"/>&nbsp;
+  <img src="https://img.shields.io/badge/Oracle_Database-0D1117?style=flat-square&logo=oracle"/>&nbsp;
+  <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=FFCA28"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+</p>
 
-Email
+```console
+iblaze@github:~/technologies$ cd ../workspace
+iblaze@github:~/workspace$ ls
+```
+
+<p align="left">&nbsp;
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624"/>&nbsp;
+  <img src="https://img.shields.io/badge/WSL-0D1117?style=flat-square&logo=linux&logoColor=0078D4"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash"/>&nbsp;
+  <img src="https://img.shields.io/badge/Zsh-0D1117?style=flat-square&logo=zsh&logoColor=F15A24"/>&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=007ACC"/>&nbsp;
+  <img src="https://img.shields.io/badge/Zed-0D1117?style=flat-square&logo=zedindustries&logoColor=A855F7"/>&nbsp;
+  <img src="https://img.shields.io/badge/RustRover-0D1117?style=flat-square&logo=jetbrains&logoColor=FD345F"/>&nbsp;
+  <img src="https://img.shields.io/badge/CLion-0D1117?style=flat-square&logo=clion&logoColor=FFFFFF"/>&nbsp;
+</p>
+
+```console
+iblaze@github:~/workspace$ cd ..
+iblaze@github:~$ logout
+
+Session terminated.
+```
