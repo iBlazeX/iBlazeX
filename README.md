@@ -75,12 +75,12 @@ Session terminated.
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/dist/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/iBlazeX/iBlazeX/main/dist/pacman-contribution-graph-dark.svg">
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/dist/pacman-contribution-graph.svg">
+      srcset="https://raw.githubusercontent.com/iBlazeX/iBlazeX/main/dist/pacman-contribution-graph.svg">
     <img
       alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/dist/pacman-contribution-graph-dark.svg">
+      src="https://raw.githubusercontent.com/iBlazeX/iBlazeX/main/dist/pacman-contribution-graph-dark.svg">
   </picture>
 </p>
