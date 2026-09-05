@@ -65,12 +65,17 @@ iblaze@github:~/workspace$ ls
 </p>
 
 ```console
+iblaze@github:~$ ./space-shooter
+```
+<p align="center">
+  <img src="./game.gif?raw=true" alt="GitHub Space Shooter" width="98%" height="98%">
+</p>
+
+```console
 iblaze@github:~/workspace$ cd ..
 iblaze@github:~$ logout
 
 Session terminated.
 ```
 
-<p align="center">
-  <img src="./game.gif?raw=true" alt="GitHub Space Shooter" width="98%" height="98%">
-</p>
+
