@@ -72,5 +72,5 @@ Session terminated.
 ```
 
 <p align="center">
-  <img src="./game.gif?raw=true" alt="GitHub Space Shooter" width="100%">
+  <img src="./game.gif?raw=true" alt="GitHub Space Shooter" width="98%" height="98%">
 </p>
