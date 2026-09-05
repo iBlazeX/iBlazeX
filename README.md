@@ -68,7 +68,7 @@ iblaze@github:~/workspace$ ls
 iblaze@github:~$ ./space-shooter
 ```
 <p align="center">
-  <img src="./game.gif?raw=true" alt="GitHub Space Shooter" width="98%" height="98%">
+  <img src="./space-shooter.gif?raw=true" alt="GitHub Space Shooter" width="98%" height="98%">
 </p>
 
 ```console
